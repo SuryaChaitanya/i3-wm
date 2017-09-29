@@ -13,3 +13,7 @@ $mod+w - tabbed
 
 $mod+num - Go to workspace
 $mod+shift+num - move application to workspace
+
+Fn+F7 - Toggle touchpad
+
+#Note: Brightness control does not work - go to ubuntu Gnome to adjust the brightness before using i3 wm
