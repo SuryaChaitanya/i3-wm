@@ -1,0 +1,15 @@
+# Keymaps
+
+$mod+q - quit
+
+$mod+w - floating window
+$mod+d - dmenu
+$mod+p - border only display
+$mod+o - with title bar
+ 
+$mod+e - tiling
+$mod+s - Stacking
+$mod+w - tabbed
+
+$mod+num - Go to workspace
+$mod+shift+num - move application to workspace
